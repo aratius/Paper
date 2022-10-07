@@ -31,10 +31,10 @@
     },
     "tm_series1": {
         "host": "127.0.0.1",
-        "port": 19100,
+        "port": 9100,
         "asImage": false,
         "cpl": 42,
-        "encoding": "multilingual",
+        "encoding": "shiftjis",
         "gradient": true,
         "gamma": 1.8,
         "threshold": 128,

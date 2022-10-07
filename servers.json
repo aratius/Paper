@@ -26,9 +26,9 @@
         "host": "127.0.0.1",
         "port": 19100
     },
-    "_serial": {
+    "serial": {
         "host": "127.0.0.1",
         "port": 9100,
-        "device": "COM9"
+        "device": "COM5"
     }
 }
