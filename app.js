@@ -1,0 +1,1 @@
+const Random = require("./lib/random")
