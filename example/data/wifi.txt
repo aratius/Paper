@@ -1,0 +1,13 @@
+
+^^^^WiFi
+
+{width:10,30;align:center;border:line}
+|^^^SSID|^^^HUMAX-BD2EB-A|
+-
+|^^^PASS|^^^MjdjMnNxMEgaX|
+{width:auto;border:none;}
+
+{code:MjdjMmNxMEgaX; option:qrcode,8,L}
+
+(pass copy src)
+
