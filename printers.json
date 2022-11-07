@@ -40,7 +40,7 @@
         "threshold": 128,
         "upsideDown": false,
         "spacing": true,
-        "cutting": true,
+        "cutting": false,
         "command": "escpos"
     },
     "rp_series1": {
